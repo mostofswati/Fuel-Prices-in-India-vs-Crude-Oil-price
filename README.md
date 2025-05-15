@@ -1,5 +1,4 @@
 # My Data Visualisation Portfolio
-<!DOCTYPE html>
 <html>
   <p>Here are some of my Flourish visualisations:</p>
   <ul>
